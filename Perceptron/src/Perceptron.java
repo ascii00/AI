@@ -14,7 +14,7 @@ public class Perceptron {
             vectorW[i]=Math.random()*0.2+0.1;
     }
 
-    //modyfikacja theta i wektora wag, jeśli trzeba
+    //modyfikacja wektora wag
     public void learn(Observation observation){
 
         int y = compute(observation);
@@ -28,6 +28,7 @@ public class Perceptron {
         }
     }
 
+    //modyfikacja theta
     public void learnTheta(Observation observation){
         int y = compute(observation);
         if ( y != observation.getAnswer() ) {
