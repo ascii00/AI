@@ -54,10 +54,10 @@ public class Accuracy {
     }
 
     public static void getAccuracyFromVector(String vector, Perceptron perceptron){
-        Observation observation = new Observation(vector+",[CLASS_NULL]");
+        Observation observation = new Observation(vector + ", ");
         int y = perceptron.compute(observation);
 
-        print(observation, observation.getAnswer() == y);
+        System.out.println(observation.getRawLine() + ANSI_GREEN + y + ANSI_RESET + " class");
     }
 
     private static void print(Observation observation, boolean status){

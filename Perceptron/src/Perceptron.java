@@ -16,7 +16,6 @@ public class Perceptron {
 
     //modyfikacja wektora wag
     public void learn(Observation observation){
-
         int y = compute(observation);
         if ( y != observation.getAnswer() ) {
 
@@ -25,13 +24,6 @@ public class Perceptron {
             for (int i = 0; i < observation.getElements().length; i++)
                 vectorWPrime[i] += ((observation.getAnswer() - y) * alpha * observation.getElements()[i]);
             vectorW = vectorWPrime;
-        }
-    }
-
-    //modyfikacja theta
-    public void learnTheta(Observation observation){
-        int y = compute(observation);
-        if ( y != observation.getAnswer() ) {
             theta = theta - (observation.getAnswer() - y) * alpha;
         }
     }

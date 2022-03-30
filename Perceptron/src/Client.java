@@ -30,11 +30,6 @@ public class Client {
                 perceptron.learn(observation);
         }
 
-        for (int i = 0; i < 100; i++) {
-            for (Observation observation : trainData)
-                perceptron.learnTheta(observation);
-        }
-
         Accuracy.getAccuracyFromTestData(testData,perceptron);
 
         while (true){
