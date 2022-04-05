@@ -1,0 +1,67 @@
+had to be portable, so they used a simple chemical absorption process
+with expendable filters. I’d been asleep long enough that my filters were
+useless.
+The suit saw this problem and moved in to an emergency mode the
+engineers call “bloodletting”. Having no way to separate out the CO2, the
+suit deliberately vented air to the Martian atmosphere, then back-filled
+with nitrogen. Between the breach and the bloodletting, it quickly ran out
+of nitrogen. All it had left was my oxygen tank.
+So it did the only thing it could to keep me alive. It started back-
+filling with pure oxygen. I now risked dying from oxygen toxicity, as the
+excessively high amount of oxygen threatened to burn up my nervous
+system, lungs, and eyes. An ironic death for someone with a leaky space
+suit: too much oxygen.
+Every step of the way would have had beeping alarms, alerts, and
+warnings. But it was the high-oxygen warning that woke me.
+The sheer volume of training for a space mission is astounding. I
+spent a week back on Earth practicing emergency space suit drills. I knew
+what to do.
+Carefully reaching to the side of my helmet, I got the breach kit. It’s
+nothing more than a funnel with a valve at the small end, and an
+unbelievably sticky resin on the wide end. The idea is you have the valve
+open and stick the wide end over a hole. The air can escape through the
+valve, so it doesn’t interfere with the resin making a good seal. Then you
+close the valve and you’ve sealed the breach.
+The tricky part was getting the antenna out of the way. I pulled it out
+as fast as I could, wincing as the sudden pressure drop dizzied me and
+made the wound in my side scream in agony.
+I got the breach kit over the hole and sealed it. It held. The suit back-
+filled the missing air with yet more oxygen. Checking my arm readouts, I
+saw the suit was now at 85% oxygen. For reference, Earth’s atmosphere
+is about 21%. I’d be ok, so long as I didn’t spend too much time like that.
+I stumbled up the hill back toward the Hab. As I crested the rise, I saw
+something that made me very happy and something that made me very
+sad: The Hab was in-tact (yay!) and the MAV was gone (boo!).
+Right that moment I knew I was screwed. But I didn’t want to just die
+out on the surface. I limped back to the Hab and fumbled my way in to an
+airlock. As soon as it equalized, I threw off my helmet.
+Entering the Hab, I doffed the suit and got my first good look at the
+injury. It would need stitches. Fortunately, all of us had been trained in
+basic medical procedures, and the Hab had excellent medical supplies. A
+quick shot of local anesthetic, irrigate the wound, 9 stitches and I was
+done. I’d be taking antibiotics for a couple of weeks, but other than that
+I’d be fine.
+I knew it was hopeless, but I tried firing up the communication array.
+No signal, of course. The primary satellite dish had broken off,
+remember? And it took the reception antennae with it. The Hab had
+secondary and tertiary communication systems, but they were both just
+for talking to the MAV, which would use its much more powerful
+systems to relay to Hermes. Thing is, that only works if the MAV is still
+around.
+I had no way to talk to Hermes. In time, I could locate the dish out on
+the surface, but it would take weeks for me to rig up any repairs, and that
+would be too late. In an abort, Hermes would leave orbit within 24 hours.
+The orbital dynamics made the trip safer and shorter the earlier you left,
+so why wait for no reason just to make the trip take longer?
+Checking out my suit, I saw the antenna had plowed through my bio-
+monitor computer. When on an EVA, all the crew’s suits are networked
+so we can see each others status. The rest of the crew would have seen the
+pressure in my suit drop to nearly 0, followed immediately by my bio-
+signs going flat. Add to that I was sent tumbling down a hill with a spear
+through me in the middle of a sandstorm... yeah. They thought I was
+dead. How could they not?
+They may have even had a brief discussion about recovering my body,
+but regulations were clear. In the event a crewman died on Mars, he
+stayed on Mars. Leaving his body behind reduced weight for the MAV on
+the trip back. That meant more disposable fuel and a larger margin of
+error for the return thrust. No point in giving that up for sentimenta

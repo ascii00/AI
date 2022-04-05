@@ -1,0 +1,133 @@
+enough for an emergency.” Humans need 3 liters of water per day to be
+comfortable. They gave us 50 liters each. There are 300 liters total in the
+Hab.
+Looks like I won’t be able to cover the whole surface of the Hab with
+fertile soil. I’m willing to dedicate all but an emergency 50 liters to the
+cause. That means I can feed 62.5 square meters at a depth of 10cm.
+About 2/3 of the Hab’s floor. It’ll have to do. Anyway, I’ve only got a
+paltry 5 square meters covered at the moment.
+After that, things got disgusting. I spent three hours spreading shit on
+Martian sand. I didn’t have to do it with my hands, at least.
+I spread the sand out in a corner of the Hab, about 10cm thick. I
+wadded up a few blankets and uniforms from my departed crewmates to
+serve as one edge of a planter box (with the curved walls of the Hab being
+the rest of the perimeter). Then I sacrificed 20 liters of precious water to
+the dirt gods.
+5 square meters was about right for the amount of manure I had
+handy. I dumped my big container o’ shit on to the soil and nearly puked
+from the smell.
+That smell’s going to stick around for a while, too. It’s not like I can
+open a window. Still, you get used to it. I mixed this soil and shit together
+with a shovel, and spread it out evenly again. Then I sprinkled the Earth
+soil on top. Get to work, bacteria. I’m counting on you.
+In other news, today is Thanksgiving. My family will be gathering in
+Chicago for the usual feast at my parent's house. My guess is it won't be
+much fun, what with me having died 11 days ago. Hell, they probably just
+got done gathering for my funeral.
+I wonder if they'll ever find out what really happened.
+LOG ENTRY: SOL 22
+Wow. Things really came along.
+I got all the sand in and ready to go. 2/3 of the base is now dirt. And
+today I executed my first dirt-doubling. It's been a week, and the former
+Martian soil was rich and lovely. Two more doublings and I will have
+covered the whole field.
+All that work was great for my morale. It gave me something to do.
+But after things settled down a bit, and I had dinner while listening to
+Johanssen’s Beatles music collection, I got depressed again.
+Doing the math, this won’t keep me from starving.
+My best bet for making calories is potatoes. They grow prolifically
+and have a reasonable caloric content (770 calories per kg). I’m pretty
+sure the ones I have will germinate. Problem is I can’t grow enough of
+them. In 62 square meters, I could grow maybe 150kg of potatoes in 400
+days (the time I have before running out of food). That’s a grand total of
+115,500 calories, a sustainable average of 288 calories per day. With my
+height and weight, if I’m willing to starve a little, I need 1500 calories
+per day.
+Not even close.
+So I can’t just live off the land for ever. But I can extend my life. The
+potatoes will last me 76 days.
+Potatoes grow continually, so in those 76 days, I can grow another
+22,000 calories of potatoes, which will tide me over for another 15 days.
+After that, it’s kind of pointless to continue the trend. All told it buys me
+about 90 days.
+So now I’ll start starving to death on Sol 490 instead of Sol 400. It’s
+progress, but any hope of survival rests on me surviving until Sol 1412,
+when Ares 4 will land.
+There’s about a thousand days of food I don’t have. And I don’t have
+a plan for how to get it.
+Shit.
+Chapter 3
+LOG ENTRY: SOL 25
+Remember those old math questions you had in Algebra class? Where
+water is entering a container at a certain rate and leaving at a different
+rate and you need to figure out when it’ll be empty? Well, that concept is
+critical to the “Mark Watney doesn’t die” project I’m working on.
+I need to create calories. And I need enough to last four years. I figure
+if I don’t get rescued by Ares 4, I’m dead anyway. So that’s my target:
+four years.
+I have plenty of multivitamins; over double what I need. And there’s
+five times the minimum protein in each food pack, so careful rationing of
+portions takes care of my protein needs for at least four years. My general
+nutrition is taken care of. I just need calories.
+I need 1500 calories every day. I have 400 days of food to start off
+with. So how many calories do I need to generate per day along the entire
+time period to stay alive for 1400 days total (the time till Ares 4 arrives)?
+I’ll spare you the math. The answer is a cool 1000. I need to create
+1000 calories per day with my farming efforts to survive until Ares 4 gets
+here. Actually, a little more than that, because it’s sol 25 right now and I
+haven’t actually planted anything yet.
+With my 62 square meters of farmland, I’ll be able to create about
+288 calories per day. I need to bring that up to 1000. I need four times my
+current plan’s production to survive.
+I need more surface area for farming, and I need water to hydrate the
+soil. So let’s take the problems one at a time.
+How much farmland can I really make?
+There are 92 square meters in the Hab. Let’s say I could make use of
+all of it.
+Also, there are five unused bunks. Let’s say I put soil in on them, too.
+They’re 2 square meters each, giving me 10 more square meters. So
+we’re up to 102.
+The Hab has three lab tables, each about 2 square meters. I want to
+keep one for my own use, leaving two for the cause. That’s another four
+square meters, bringing the total to 106.
+I have two Martian rovers. They have pressure seals, allowing the
+occupants to drive in ease, without spacesuits, as they spent long periods
+traversing the surface. They’re too cramped to plant crops in, and I want
+to be able to drive them around anyway. But both rovers have an
+emergency pop-tent.
+There are a lot of problems with using pop-tents as farmland, but they
+have 10 square meters of floor space each. Presuming I can overcome the
+problems, they net me another 20 square meters, bringing my farmland
+up to 126.
+126 square meters of farmable land. That’s something to work with.
+Not nearly enough water to moisten the soil, but like I said, one thing at a
+time.
+The next thing to consider is how efficient I can be in growing
+potatoes. I based my crop yield estimates on the potato industry back on
+Earth. But potato farmers aren’t in a desperate race for survival like I am.
+Can I get a better yield?
+For starters, I can give attention to each individual plant. I can trim
+them and keep them healthy and not interfering with each other. Also, as
+their flowering bodies breach the surface, I can replant them deeper, then
+plant younger plants above them. For normal potato farmers, it’s not
+worth doing because they’re working with literally millions of potato
+plants.
+Also, this sort of farming annihilates the soil. Any farmer doing it
+would turn their land into a dust bowl within 12 years. It’s not
+sustainable. But who gives a shit? I just need to survive four years.
+I estimate I can get 50% higher yield by using these tactics. And with
+the 126 square meter farmland (just over double the 62 square meters I
+have) it works out to be over 900 calories per day.
+That’s real progress. I’d still be in danger of starvation, but it gets me
+in the range of survival. I might be able to make it by nearly starving but
+not quite dying. I could reduce my caloric use by minimizing manual
+labor. I could set the temperature of the Hab higher than normal, meaning
+my body expends less energy keeping its temperature. I could cut off an
+arm and eat it, gaining me valuable calories and reducing my overall
+caloric need.
+No, not really.
+So let’s say I could clear up that much farmland. Seems reasonable.
+Where do I get the water? To go from 62 to 126 square meters of
+farmland at 10cm deep, I’ll need 6.4 more cubic meters of soil (more
+shoveling, whee!) and that’ll need over 250 liters of water.
+The 50L I have is for me t

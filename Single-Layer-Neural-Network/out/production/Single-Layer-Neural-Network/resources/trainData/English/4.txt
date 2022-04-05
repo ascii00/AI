@@ -1,0 +1,62 @@
+So that’s the situation. I’m stranded on Mars. I have no way to
+communicate with Hermes or Earth. Everyone thinks I’m dead. I’m in a
+Hab designed to last 31 days.
+If the Oxygenator breaks down, I’ll suffocate. If the Water Reclaimer
+breaks down, I’ll die of thirst. If the Hab breaches, I’ll just kind of
+explode. If none of those things happen, I’ll eventually run out of food
+and starve to death.
+So yeah. I’m .....
+Chapter 2
+LOG ENTRY: SOL 7
+Ok, I’ve had a good night’s sleep, and things don’t seem as hopeless
+as they did yesterday.
+Today I took stock of supplies, and did a quick EVA to check up on
+the external equipment. Here’s my situation:
+The surface mission was supposed to be 31 days. For redundancy, the
+supply probes had enough food to last the whole crew 56 days. That way
+if one or two probes had problems, we'd still have enough food to
+complete the mission.
+We were six days in when all hell broke loose, so that leaves enough
+food to feed six people for 50 days. I’m just one guy, so it’ll last me 300
+days. And that’s if I don’t ration it. So I’ve got a fair bit of time.
+The Hab stood up to the storm without any problems. Outside, things
+aren’t so rosy. I can’t find the satellite dish; it probably got blown
+kilometers away.
+The MAV is gone, of course. My crewmates took it up to Hermes.
+Though the bottom half (the landing stage) is still there. No reason to
+take that back up when weight is the enemy. It includes the landing gear,
+the fuel plant, and anything else NASA figured it wouldn’t need for the
+trip back up to orbit.
+The MDV is on its side and there’s a breach in the hull. Looks like the
+storm ripped the cowling off the reserve chute (which we didn’t have to
+use on landing). Once the chute was exposed it dragged the MDV all over
+the place, smashing it against every rock in the area. Not that the MDV
+would be much use to me. Its thrusters can’t even lift its own weight. But
+it might have been valuable for parts. Might still be.
+Both rovers are half-buried in sand, but they’re in good shape
+otherwise. Their pressure seals are in-tact. Makes sense. Operating
+procedure if a storm hits is to stop motion and wait for the storm to pass.
+They’re made to stand up to punishment. I’ll be able to dig them out with
+a day or so of work.
+I’ve lost communication with the weather stations, placed a kilometer
+away from the Hab in 4 directions. They might be in perfect working
+order for all I know. The Hab’s communications are so weak right now it
+probably can’t even reach a kilometer.
+The solar cell array was covered it in sand, rendering it useless (hint:
+solar cells need sunlight to make electricity). But once I swept them off,
+they returned to full efficiency. Whatever I end up doing, I’ll have plenty
+of power for it. 200 square meters of solar cells, with hydrogen fuel cells
+to store plenty of reserve. All I need to do is sweep them off every few
+days.
+Things indoors are great, thanks to the Hab’s sturdy design.
+I ran a full diagnostic on the Oxygenator. Twice. It’s perfect. If
+anything goes wrong with it, there is a short-term spare I can use. But it’s
+solely for emergency use while repairing the main one. The spare doesn’t
+actually pull CO2 apart and recapture the oxygen. It just absorbs the CO2
+the same way the spacesuits do. It’s intended to last 5 days before it
+saturates the filters, which means 30 days for me (just one person
+breathing, instead of six). So there’s some insurance there.
+The Water Reclaimer is working fine, too. The bad news is there’s no
+backup. If it stops working, I’ll be drinking reserve water while I rig up a
+primitive distillery to boil piss. Also, I’ll lose half a liter of water per day
+to breathing until the humidity i

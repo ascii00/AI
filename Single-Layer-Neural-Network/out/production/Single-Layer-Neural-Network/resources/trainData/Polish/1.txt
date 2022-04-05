@@ -1,0 +1,110 @@
+Tytuł oryginału: The Martian
+
+Redakcja: Jacek Ring
+
+Redakcja techniczna: Karolina Bendykowska
+
+Skład wersji elektronicznej: Robert Fritzkowski
+
+Korekta: Elżbieta Steglińska, Renata Kuk
+
+Konsultacja naukowa: Jan Stradowski
+
+Copyright © 2011, 2014 by Andy Weir.
+
+This translation published by arrangement with Crown Publishers, an imprint of the Crown Publishing Group, a division of Random House LLC.
+
+All rights reserved.
+
+© for the Polish edition by MUZA SA, Warszawa 2014, 2020
+
+© for the Polish translation by Marcin Ring
+
+ISBN 978-83-287-1431-1
+
+Wydawnictwo Akurat
+
+Wydanie II
+
+Warszawa 2020
+
+FRAGMENT
+
+Mamie,
+
+która nazywała mnie Korniszonem,
+
+i Tacie,
+
+który nazywał mnie Kolesiem.
+ROZDZIAŁ 1
+
+WPIS W DZIENNIKU: SOL 6.[1]
+
+Mam całkowicie przesrane.
+
+To moja przemyślana opinia.
+
+Przesrane.
+
+Szósty dzień tego, co miało być dwoma najwspanialszymi miesiącami w moim życiu, i wszystko zamieniło się w koszmar.
+
+Nawet nie wiem, kto to przeczyta. Pewnie ktoś to w końcu znajdzie. Może za setki lat.
+
+Nie umarłem 6. sola. Bez wątpienia reszta załogi tak myślała i nie mogę ich za to winić. Może ogłoszą z mojego powodu żałobę narodową, a na mojej stronie w Wikipedii napiszą: „Mark Watney to jedyny człowiek, który zginął na Marsie”.
+
+I to będzie prawda, tak podejrzewam. Bo na pewno tu umrę. Po prostu nie w solu 6., tak jak wszyscy myślą.
+
+Tak więc… od czego by tu zacząć?
+
+Program Ares. Ludzkość sięgająca Marsa, po raz pierwszy wysyłająca ludzi na inną planetę, żeby poszerzyć swoje horyzonty, bla, bla, bla… Załoga misji Ares 1 zrobiła, co do niej należało, i wróciła na Ziemię jako bohaterowie. Były na ich cześć parady, zyskali sławę i świat ich pokochał.
+
+Ares 2 zrobił to samo, tylko w innym miejscu Marsa. Dostali mocny uścisk dłoni i gorącą filiżankę kawy, gdy wrócili.
+
+Ares 3. No cóż. To moja misja. No właściwie nie moja. Komandor porucznik Lewis dowodziła. Ja byłem tylko zwykłym członkiem załogi. W gruncie rzeczy to miałem najniższą rangę ze wszystkich i zostałbym dowódcą tylko wtedy, gdybym był jej ostatnim członkiem.
+
+I wiecie co? Jestem dowódcą.
+
+Zastanawiam się, czy ten dziennik zostanie odnaleziony, zanim załoga umrze ze starości. Zakładam, że cali dotarli na Ziemię. Tak więc jeśli to czytacie: to nie była wasza wina. Zrobiliście to, co musieliście. Na waszym miejscu postąpiłbym dokładnie tak samo. Nie obwiniam was i cieszę się, że przeżyliście.
+
+Chyba powinienem wytłumaczyć, na czym polegają misje na Marsa. Przecież mogą to przeczytać laicy. No orbitę okołoziemską dostaliśmy się normalnie, zwyczajnym statkiem dotarliśmy na Hermesa. Wszystkie misje marsjańskie wykorzystują Hermesa, aby dostać się na Marsa i przylecieć z powrotem. Jest naprawdę wielki i drogi, więc NASA zbudowała tylko jeden.
+
+Jak już byliśmy na Hermesie, cztery misje bezzałogowe dostarczyły nam paliwo i zapasy, a my w tym czasie przygotowywaliśmy się do naszej podróży. Kiedy wszystko było gotowe, rozpoczęliśmy podróż na Marsa. Ale nie za szybko. Czasy spalania ciężkiego chemicznego paliwa i wykonywania manewrów „wstrzyknięcia”[2] już się skończyły.
+
+Hermes jest napędzany silnikami jonowymi. Wyrzucają w tył argon z olbrzymią prędkością, aby wytworzyć minimalne przyspieszenie. Sęk w tym, że nie zużywają dużo paliwa, tak więc wystarczało nam niewiele argonu (i reaktor jądrowy zasilający silniki), żebyśmy mogli przyspieszać stale, przez całą drogę na miejsce. Bylibyście zdziwieni, jak bardzo można się rozpędzić, mając tak małe przyspieszenie przez długi czas. Mógłbym was zabawić opowieścią o tym, jaką frajdę mieliśmy w trakcie podróży, ale tego nie zrobię. Nie chcę teraz do tego wracać wspomnieniami. Wystarczy, że powiem, iż dotarliśmy na orbitę Marsa sto dwadzieścia cztery dni później, nie zabijając się nawzajem.
+
+Stamtąd dostaliśmy się przy użyciu MDV-u (Mars Descent Vehicle) na powierzchnię. MDV to w zasadzie taka wielka puszka ze słabymi dopalaczami i dołączonymi spadochronami. Jego jedynym zadaniem jest dostarczyć z orbity na powierzchnię Marsa sześć osób, nie zabijając ich przy tym.
+
+I teraz dochodzimy do fajnej sztuczki misji eksploracji Marsa: nasze graty były tam przed nami.
+
+Czternaście misji bezzałogowych dostarczyło wszystko, czego potrzebowaliśmy na powierzchni. Naprawdę się starano, aby wszystkie jednostki przewożące zapasy wylądowały w jednej okolicy, i całkiem nieźle to wyszło. Zapasy oczywiście nie są tak kruche jak ludzie i mogą uderzyć w powierzchnię naprawdę mocno. Ale miały sporą tendencję do odbijania się.
+
+Oczywiście nie wysłali nas na Marsa przed potwierdzeniem, że wszystkie zapasy dotarły na planetę i kontenery są całe. Od początku do końca, wliczając misje zaopatrzeniowe, misja marsjańska trwa około trzech lat. W rzeczy samej, gdy załoga misji Ares 2 wracała na Ziemię, na Marsa już leciało zaopatrzenie Aresa 3.
+
+Najważniejszą zaawansowaną technicznie przesyłką był bez wątpienia MAV – Mars Ascent Vehicle. To nim mieliśmy się znowu dostać na Hermesa, po tym jak wszystkie operacje na powierzchni zostaną zakończone. MAV był wyposażony w system miękkiego przyziemiania (zupełnie inaczej niż odbijający się na balonach inny nasz sprzęt). Oczywiście utrzymywał ciągłą łączność z Houston i jeśli byłyby z nim jakieś problemy, zawrócilibyśmy na Ziemię, nie lądując nawet na Marsie.
+
+MAV jest fajny. Jak się okazuje, dzięki cyklowi ciekawych reakcji chemicznych z marsjańską atmosferą każdy kilogram wodoru przywieziony z Ziemi można zamienić w trzynaście kilogramów paliwa. Ale jest to powolny proces. Zapełnienie całego baku zajmuje dwadzieścia cztery miesiące. Dlatego wysłali MAV na długo przedtem, zanim tu dotarliśmy.
+
+Możecie sobie wyobrazić, jakim rozczarowaniem byłoby odkrycie, że go nie ma.
+
+Całkiem absurdalny splot wydarzeń sprawił, że prawie zginąłem. A jeszcze bardziej absurdalny jednak uratował mi życie.
+
+Misja marsjańska jest przygotowana tak, aby wytrzymać burze piaskowe osiągające prędkość do 150 km/h. Tak więc Houston nie bez powodu zrobiło się nerwowe, gdy uderzył w nas wiatr o prędkości 175 km/h. Wszyscy włożyliśmy nasze kombinezony do lotu i zbiliśmy się w gromadę na środku Habu, na wypadek utraty ciśnienia. Ale to nie Hab był problemem.
+
+MAV to statek kosmiczny. Ma dużo delikatnych części. Może wytrzymać burze piaskowe przez pewien czas, ale nie wieczność. Po półtorej godzinie utrzymującego się wiatru NASA wydała rozkaz przerwania misji. Nikt nie chciał kończyć miesięcznej misji po sześciu dniach, ale jeśli MAV zostałby uszkodzony, wszyscy byśmy utknęli tu na dole.
+
+Musieliśmy wyjść w burzę, żeby przejść od Habu do MAV-u. To oczywiście było ryzykowne, ale jaki mieliśmy wybór?
+
+Udało się wszystkim oprócz mnie.
+
+Talerz głównej anteny komunikacyjnej, która przekazywała sygnały z Habu do Hermesa, zadziałał jak spadochron. Został wyrwany ze swojego mocowania i poniesiony wiatrem. Lecąc, uderzył w układ anten odbiorczych. Jedna z tych długich cienkich anten walnęła we mnie. Weszła w kombinezon jak nóż w masło i poczułem w boku najmocniejszy ból w życiu, gdy tam się werżnęła. Ledwo pamiętam nagle uciekające powietrze i ból w uszach, gdy ciśnienie w skafandrze spadało.
+
+Ostatnie, co pamiętam, to Johanssen bezradnie starającą się mnie złapać.
+
+Obudził mnie alarm tlenowy w skafandrze. Ciągły, przykry sygnał, który w końcu wyciągnął mnie z głębokiego i silnego pragnienia, żeby po prostu, kurwa, umrzeć.
+
+Burza zelżała. Leżałem twarzą w dół, prawie całkowicie pokryty piachem. Oszołomiony, trzęsąc się cały, zastanawiałem się, dlaczego nie byłem bardziej martwy.
+
+Antena miała wystarczającą siłę, żeby przebić się przez skafander i przez mój bok też, ale zatrzymała się na miednicy. Tak więc w skafandrze była tylko jedna dziura (i oczywiście jedna we mnie).
+
+Odrzuciło mnie spory kawałek i stoczyłem się ze stromego wzgórza. Wylądowałem twarzą na ziemi i dlatego antena była ustawiona mocno ukośnie, co spowodowało dużą siłę skręcającą działającą na dziurę w skafandrze. W ten sposób skafander został chwilowo częściowo uszczelniony.

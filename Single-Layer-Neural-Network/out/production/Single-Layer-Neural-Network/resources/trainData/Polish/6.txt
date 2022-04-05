@@ -1,0 +1,13 @@
+Wiedziałem, że to bez sensu, ale spróbowałem nawiązać łączność. Oczywiście brak sygnału. Pamiętacie, że odpadł główny talerz satelitarny? I rozwalił anteny odbiorcze. Hab miał drugo- i trzeciorzędowy system komunikacji. Ale oba służyły do łączności z MAV-em, który użyłby swoich dużo mocniejszych systemów, żeby przekazać wiadomość na Hermesa. Problem w tym, że to mogło działać tylko wtedy, gdy MAV był w pobliżu.
+
+Nie miałem jak porozumieć się z Hermesem. Mógłbym w końcu znaleźć talerz satelitarny na powierzchni, ale nawet prowizoryczne naprawy zajęłyby mi tygodnie, a to stanowczo za długo. Po odwołaniu misji Hermes opuściłby orbitę w ciągu dwudziestu czterech godzin. Dynamika orbitalna sprawiała, że im szybciej opuścisz orbitę, tym szybciej i bezpieczniej wrócisz do domu, więc czemu czekać?
+
+Sprawdziłem skafander i odkryłem, że antena przeorała komputer śledzący parametry biologiczne. W trakcie wyjścia EVA (Extravehicular Activity) skafandry wszystkich członków załogi są połączone, więc mamy informacje o stanie innych. Reszta załogi na pewno widziała ciśnienie w moim skafandrze spadające prawie do zera i natychmiast zanikające odczyty biologiczne. Dodajcie do tego, że stoczyłem się ze zbocza z bokiem przebitym włócznią w samym środku burzy piaskowej… tak. Pomyśleli, że nie żyję. Jakżeby mogli inaczej?
+
+Może przeprowadzili nawet krótką dyskusję na temat zabrania mojego ciała, ale procedury były jasne. Jeśli członek załogi umarł na Marsie, miał zostać na Marsie. Zostawienie go sprawiało, że MAV miał mniejszą masę startową. To z kolei prowadziło do zwiększenia marginesu błędu w sterowaniu ciągiem. Nie było sensu z tego rezygnować z powodu sentymentów.
+
+Tak więc sytuacja wygląda następująco. Utknąłem na Marsie. Nie mam jak uzyskać połączenia z Hermesem ani Ziemią. Wszyscy myślą, że umarłem. Jestem w Habie zaprogramowanym na przetrwanie trzydziestu jeden dni.
+
+Jeśli oksygenator się zepsuje, uduszę się. Jeśli system odzyskiwania wody się zepsuje, umrę z pragnienia. Jeśli zostanie naruszona hermetyczność Habu, mniej więcej eksploduję. Jeśli żadna z tych rzeczy się nie wydarzy, w końcu skończy mi się jedzenie i umrę z głodu.
+
+Mam przesrane.

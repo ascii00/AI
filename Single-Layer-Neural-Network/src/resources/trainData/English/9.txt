@@ -1,0 +1,191 @@
+lot of H2O at the end, but I’ll be too dead to
+appreciate it.
+At its root, Hydrazine is pretty simple. The Germans used it as far
+back as World War II for rocket-assisted fighter fuel (and occasionally
+blew themselves up with it).
+All you have to do is run it over a catalyst (which I can extract from
+the MDV engine) and it will turn in to nitrogen and hydrogen. I’ll spare
+you the chemistry, but the end result is that 5 molecules of Hydrazine
+becomes 5 molecules of harmless N2 and 10 molecules of lovely H2.
+During this process, it goes through an intermediate step of being
+ammonia. Chemistry, being the sloppy bitch it is, ensures there’ll be
+some ammonia that doesn’t react with the Hydrazine, so it’ll just stay
+ammonia. You like the smell of ammonia? Well it’ll be prevalent in my
+increasingly hellish existence.
+The chemistry is on my side. The question now is how do I actually
+make this reaction happen slowly and how do I collect the hydrogen? The
+answer is: I don’t know.
+I suppose I’ll think of something. Or die.
+Anyway, much more important: I simply can’t abide the replacement
+of Chrissie with Cindy. “Three’s Company” may never be the same after
+this fiasco. Time will tell.
+Chapter 4
+LOG ENTRY: SOL 32
+So I ran in to a bunch of problems with my water plan.
+My idea is to make 600L of water (limited by the hydrogen I can get
+from the Hydrazine). That means I’ll need 300L of liquid O2.
+I can create the O2 easily enough. It takes 20 hours for the MAV fuel
+plant to fill its 10L tank with CO2. The Oxygenator can turn it in to O2,
+then the Atmospheric Regulator will see the O2 content in the Hab is
+high, and pull it out of the air, storing it in the main O2 tanks. They’d fill
+up, so I’d have to transfer O2 over to the rovers’ tanks and even space
+suit tanks as necessary.
+But I can’t create it very quickly. At 1/2L of CO2 per hour, it will
+take 25 days to make the oxygen I need. That’s longer than I’d like.
+Also, there’s the problem of storing the hydrogen. The air tanks of the
+Hab, the rovers, and all the space suits add up to exactly 374L of storage.
+To hold all the materials for water, I would need a whopping 900L of
+storage.
+I considered using one of the rovers as a “tank”. It would certainly be
+big enough, but it just isn’t designed to hold in that much pressure. It’s
+made to hold (you guessed it) one atmosphere. I need vessels that can
+hold 50 times that much. I’m sure a rover would burst.
+The best way to store the ingredients of water is to make them be
+water. So what’s what I’ll have to do.
+The concept is simple, but the execution will be incredibly dangerous.
+Every 20 hours, I’ll have 10L of CO2 thanks to the MAV fuel plant.
+I’ll vent it in to the Hab via the highly scientific method of detaching the
+tank from the MAV landing struts, bringing it in to the Hab, then opening
+the valve until it’s empty.
+The Oxygenator will turn it in to oxygen in its own time.
+Then, I’ll release Hydrazine, VERY SLOWLY, over the iridium
+catalyst, to turn it in to N2 and H2. I’ll direct the hydrogen to a small area
+and burn it.
+As you can see, this plan provides many opportunities for me to die in
+a fiery explosion.
+Firstly, Hydrazine is some serious death. If I make any mistakes,
+there’ll be nothing left but the “Mark Watney Memorial Crater” where
+the Hab once stood.
+Presuming I don’t .... up with the Hydrazine, there’s still the matter of
+burning hydrogen. I’m going to be setting a fire. In the Hab. On purpose.
+If you asked every engineer at NASA what the worst scenario for the
+Hab was, they’d all answer “fire.” If you asked them what the result
+would be, they’d answer “death by fire.”
+But if I can pull it off, I’ll be making water continuously, with no
+need to store hydrogen or oxygen. It’ll be mixed in to the atmosphere as
+humidity, but the Water Reclaimer will pull it out.
+I don’t even have to perfectly match the Hydrazine end of it with the
+fuel plant CO2 part. There’s plenty of oxygen in the Hab, and plenty more
+in reserve. I just need to make sure not to make so much water I run
+myself out of O2.
+I hooked up the MAV fuel plant to the Hab’s power supply.
+Fortunately they both use the same voltage. It’s chugging away,
+collecting CO2 for me.
+Half-ration for dinner. All I accomplished today was thinking up a
+plan that’ll kill me, and that doesn’t take much energy.
+I’m going to finish off the last of “Three’s Company” tonight.
+Frankly, I like Mr. Furley more than the Ropers.
+LOG ENTRY: SOL 33
+This may be my last entry.
+I’ve known since Sol 6 there was a good chance I’d die here. But I
+figured it would be when I ran out of food. I didn’t think it would be this
+early.
+I’m about the fire up the Hydrazine.
+Our mission was designed knowing that anything might need
+maintenance, so I have plenty of tools. Even in a space-suit, I was able to
+pry the access panels off the MDV and get at the six Hydrazine tanks. I
+set them in the shadow of a rover to keep them from heating up too much.
+There’s more shade and a cooler temperature near the Hab, but .... that. If
+they’re going to blow up, they can blow up a rover, not my house.
+Then I pried out the reaction chamber. It took some work and I
+cracked the damn thing in half, but I got it out. Lucky for me I don’t need
+a proper fuel reaction. In fact, I really, super-duper don’t want a proper
+fuel reaction.
+I brought all the Hydrazine and reaction chamber in. I briefly
+considered only having one tank in at a time to reduce risk. But some
+back-of-the-napkin math told me even one tank was enough to blow the
+whole Hab up, so why not bring them all in?
+The tanks have manual vent valves. I’m not 100% sure what they’re
+for. Certainly we were never expected to use them. I think they’re there to
+release pressure during the many quality checks done during construction
+and before fueling. Whatever the reason, I have valves to work with. All
+it takes is a wrench.
+I liberated a spare water hose from the Water Reclaimer. With some
+thread torn out of a uniform (Sorry, Johanssen), I attached it to the valve
+output. Hydrazine is a liquid, so all I have to do is lead it to the reaction
+chamber (more of a “reaction bowl” now).
+Meanwhile, the MAV fuel plant is still working. I’ve already brought
+in one tank of CO2, vented it, and returned it for refilling.
+So there are no more excuses. It’s time to start making water.
+If you find the charred remains of the Hab, it means I did something
+wrong. I’m copying this log over to both rovers so it’s more likely it’ll
+survive.
+Here goes nothin’
+LOG ENTRY: SOL 33 (2)
+Well, I didn’t die.
+First thing I did was put on the inner lining of my EVA suit. Not the
+bulky suit itself, just the inner clothing I wear under it, including the
+gloves and booties. Then I got an oxygen mask from the medical supplies
+and some lab goggles from Vogel's chem kit. Almost all of my body was
+now protected and I would be breathing canned air.
+Why? Because Hydrazine is very toxic. If I breathe too much of it I'll
+get major lung problems. If I get it on my skin, I'll have chemical burns
+for the rest of my life. I wasn't taking any chances.
+I turned the valve until a trickle of Hydrazine came out. I let one drop
+fall in to the iridium bowl.
+It un-dramatically sizzled and disappeared.
+But hey, that’s what I wanted. I just freed up hydrogen and nitrogen.
+Yay!
+One thing I have in abundance here is bags. They’re not much
+different than kitchen trash bags, though I’m sure they cost $50,000
+because NASA.
+In addition to being our commander, Lewis was also the geologist.
+She was going to collect rock and soil samples from all over the
+operational area (10 km radius). Weight limits restricted how much she
+could actually bring back, so she was going to collect first, then sort out
+the most interesting 50kg to take home. The bags are to store and tag the
+samples. Some are smaller than a Ziploc, while others are as big as a
+Hefty lawn and leaf bag.
+Also, I have duct tape. Ordinary duct tape, like you buy at a hardware
+store. Turns out even NASA can’t improve on duct tape.
+I cut up a few Hefty sized bags and taped them together to make a sort
+of tent. Really it was more of a super-sized bag. I was able to cover the
+whole table where my Hydrazine mad scientist set-up was. I put a few
+knickknacks on the table to keep the plastic out of the iridium bowl.
+Thankfully, the bags are clear, so I can still see what’s going on.
+Next, I sacrificed a spacesuit to the cause. I needed an air hose. I have
+a surplus of space suits, after all. A total of seven; one for each
+crewmember and one spare. So I don’t mind murdering one of them.
+I cut a hole in the top of the plastic and duct taped the hose in place.
+Nice seal, I think.
+With some more string from Johannsen’s clothing, I hung the other
+end of the hose from the top of the Hab's dome by two angled threads (to
+keep them well clear of the hose opening). Now I had a little chimney.
+The hose was about 1cm wide. Hopefully a good aperture.
+The hydrogen will be hot after the reaction, and it'll want to go up. So
+I’ll let it go up the chimney, then burn it as it comes out.
+Then I had to invent fire.
+NASA put a lot of effort in to making sure nothing here can burn.
+Everything is made of metal or flame retardant plastic and the uniforms
+are synthetic. I needed something that could hold a flame, some kind of
+pilot light. I don't have the skills to keep enough H2 flowing to feed a
+flame without killing myself. Too narrow a margin there.
+After a search of everyone’s personal items (hey, if they wanted
+privacy, they shouldn’t have abandoned me on Mars with their stuff) I
+found my answer.
+Martinez is a devout catholic. I knew that. What I didn’t know was he
+brought along a small wooden cross. I’m sure NASA gave him shit about
+it, but I also know Martinez is one stubborn son-of-a-bitch.
+I chipped his sacred religious item into long splinters using a pair of
+pliers and a screwdriver. I figure if there’s a God, He won’t mind,
+considering the situation I’m in.
+Ruining the only religious icon I have leaves me vulnerable to Mars
+Vampires. I’ll have to risk it.
+There were plenty of wires and batteries around to make a spark. But
+you can’t just ignite wood with a small electric spark. So I collected
+ribbons of bark from local palm trees, then got a couple of sticks and
+rubbed them together to create enough friction to...
+No not really. I vented pure oxygen at the stick and gave it a
+spark. .... lit up like a match.
+With my mini-torch in hand, I started a slow Hydrazine flow. It
+sizzled on the iridium and disappeared. Soon I had short bursts of flame
+sputtering from the chimney.
+The main thing I had watch was the temperature. Hydrazine breaking
+down is extremely exothermic. So I’d do it a bit at a time, constantly
+watching the readout of a thermocouple I’d attached to the iridium
+chamber.
+Point is, the process worked!
+Each Hydrazine tank holds a little over 50L, which would be enough
+to make 100L of water. I’m limited by my oxygen production, but I’m all
+excited now, so I'm willing to use half my reserves. Long story short, I’ll
+stop when the tank is half-empty, and I’ll have 50L or water at th

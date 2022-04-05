@@ -1,0 +1,192 @@
+labor. I could set the temperature of the Hab higher than normal, meaning
+my body expends less energy keeping its temperature. I could cut off an
+arm and eat it, gaining me valuable calories and reducing my overall
+caloric need.
+No, not really.
+So let’s say I could clear up that much farmland. Seems reasonable.
+Where do I get the water? To go from 62 to 126 square meters of
+farmland at 10cm deep, I’ll need 6.4 more cubic meters of soil (more
+shoveling, whee!) and that’ll need over 250 liters of water.
+The 50L I have is for me to drink if the Water Reclaimer breaks. So
+I’m 250L short of my 250L goal.
+Bleh. I’m going to bed.
+LOG ENTRY: SOL 26
+It was a back-breaking yet productive day.
+I was sick of thinking, so instead of trying to figure out where I’ll get
+250L of water, I did some manual labor. I need to get a whole assload
+more soil in to the Hab, even if it is dry and useless right now.
+I got a cubic meter in before getting exhausted.
+Then, a minor dust-storm dropped by for an hour and covered the
+solar collectors with crap. So I had to suit up *again* and do *another*
+EVA. I was in a pissy mood the whole time. Sweeping off a huge field of
+solar cells is boring and physically demanding. But once the job was
+done, I came back to my Little Hab on the Prairie.
+It was about time for another dirt-doubling, so I figured I may as well
+get it over with. It took an hour. One more doubling and the usable soil
+will all be good to go.
+Also, I figured it was time to start up a seed crop. I’d doubled the soil
+enough that I could afford to leave a little corner of it alone. I had 12
+potatoes to work with.
+I am one lucky son-of-a-bitch they aren’t freeze-dried or mulched.
+Why did NASA send 12 whole potatoes, refrigerated but not frozen? And
+why send them along with us as in-pressure cargo rather than in a crate
+with the rest of the Hab supplies? Because Thanksgiving was going to
+happen while we were doing surface operations, and NASA’s shrinks
+thought it would be good to make a meal together. Not just to eat it, but
+to actually prepare it. There’s probably some logic to that, but who cares?
+I cut each potato in to 4 pieces, making sure each piece had at least 2
+eyes. The eyes are where they sprout from. I let them sit for a few hours
+to harden a bit, then planted them, well spaced apart, in the corner. God
+speed, little taters. My life depends on you.
+Normally, it takes 90 days to yield full sized potatoes. But I can’t wait
+that long. I’ll need to cut up all the potatoes from this crop to seed the
+rest of the field.
+By setting the Hab temperature to a balmy 25.5C, the plants will grow
+quicker. Also, the internal lights will provide plenty of “sunlight” and I’ll
+make sure they get lots of water (once I figure out where to get water).
+There will be no foul weather, or any parasites to hassle them, or any
+weeds to compete with for soil or nutrients. With all this going for them,
+they should yield healthy, sproutable tubers within 40 days.
+I figured that was enough being Farmer Mark for one day.
+A full meal for dinner. I’d earned it. Plus, I’d burned a ton of calories
+and I wanted them back.
+I rifled through Commander Lewis’s stuff until I found her personal
+data-stick. Everyone got to bring whatever digital entertainment they
+wanted, and I was tired of listening to Johanssen’s Beatles Albums for
+now. Time to see what Lewis had.
+Crappy TV shows. That’s what she had. Countless entire runs of TV
+shows from forever ago.
+Well. Beggars can’t be choosers. “Three’s Company” it is.
+LOG ENTRY: SOL 29
+Over the last few days, I got all the dirt in that I’d need. I prepped the
+tables and bunks for holding the weight of soil, and even put the dirt in
+place. There’s still no water to make it viable, but I have some ideas.
+Really bad ideas, but they’re ideas.
+Today’s big accomplishment was setting up the pop-tents.
+The problem with the rovers’ pop-tents is they weren’t designed for
+frequent use.
+The idea was you’d throw out a pop-tent, get in, and wait for rescue.
+The airlock is nothing more than valves and two doors. Equalize the
+airlock with your side of it, get in. equalize with the other side, get out.
+This means you lose a lot of air each use. And I’ll need to get in there at
+least once a day. The total volume of each pop tent is pretty low, so I
+can’t afford to lose air from it.
+I spent *hours* trying to figure out how to attach a pop-tent airlock to
+a Hab airlock. I have three airlocks in the Hab. I’d be willing to dedicate
+two to pop-tents. That would have been awesome.
+The frustrating part is pop-tent airlocks *can* attach to other
+airlocks! You might have injured people in there, or not enough space
+suits. You need to be able to get people out without exposing them to the
+Martian atmosphere.
+But the pop-tents were designed for your crewmates to come rescue
+you in a *rover*. The airlocks on the Hab are much larger and completely
+different than the airlocks on the rovers. When you think about it, there’s
+really no reason to attach a pop-tent to the Hab.
+Unless you’re stranded on Mars and everyone thinks you’re dead and
+you’re in a desperate fight against time and the elements to stay alive.
+But, you know, other than that edge case there’s no reason.
+So I finally decided I’d just take the hit. I’ll be losing some air every
+time I enter or exit a pop-tent. The good news is each pop-tent has an air
+feed valve on the outside. Remember, these are emergency shelters. The
+occupants might need air, and you can provide it from a rover by hooking
+up an air line. It’s nothing more than a tube that equalizes the rover’s air
+with the pop-tent’s.
+The Hab and the rovers use the same valve and tubing standards, so I
+was able to attach the pop tents directly to the Hab. That'll automatically
+replenish the air I lose with my entries and exits (what we NASA folk call
+ingress and egress).
+NASA was not .... around with these emergency tents. The moment I
+pushed the panic button in the rover, there was an ear-popping whoosh as
+the pop-tent fired out, attached to the rover airlock. It took about two
+seconds.
+I closed the airlock from the rover side and ended up with a nice,
+isolated pop-tent. Setting up the equalizer hose was trivial (for once I’m
+using equipment the way it was designed to be used). Then, after a few
+trips through the airlock (with the air-loss automatically equalized by the
+Hab) I got the dirt in.
+I repeated the process for the other tent. Everything went really
+easily.
+Sigh... water.
+In high school, I played a lot of Dungeons and Dragons. (You may not
+have guessed this Botanist / Mechanical Engineer was a bit of a nerd in
+high school, but indeed I was). In the game I played a Cleric. One of the
+magic spells I could cast was “Create Water”. I always thought it was a
+really stupid spell, and it never came up. Boy what I wouldn’t give to be
+able to do that in real life right now.
+Anyway. That’s a problem for tomorrow.
+For tonight, I have to get back to “Three’s Company.” I stopped last
+night in the middle of the episode where Mr. Roper saw something and
+took it out of context.
+LOG ENTRY: SOL 30
+I have an idiotically dangerous plan for getting the water I need. And
+boy do I mean *dangerous*. But I don’t have much choice. I’m out of
+ideas and I’m due for another dirt-doubling in a few days. When I do the
+final doubling, I’ll be doubling on to all that new soil I’ve brought in. If I
+don’t wet it first, it’ll just die.
+There isn’t a lot of water here on Mars. There’s ice at the poles, but
+they’re too far away. If I want water I’ll have to make it from scratch.
+Fortunately, I know the recipe: Take hydrogen. Add oxygen. Burn.
+Let’s take them one at a time. I’ll start with oxygen.
+I have a fair bit of O2 reserves, but not enough to make 250 liters of
+water. Two high-pressure tanks at one end of the Hab are my entire
+supply (plus the air in the Hab of course). They each contain 25 liters of
+liquid O2. The Hab would only use them in an emergency; it has the
+Oxygenator to balance the atmosphere. The reason the O2 tanks are here
+is to feed the spacesuits and rovers.
+Anyway, the reserve oxygen would only be enough to make 100L of
+water (50L of O2 makes 100L of molecules that only have one O each).
+That would mean no EVAs for me, and no emergency reserves. And it
+would make less than half the water I need. Out of the question.
+But oxygen’s easier to find on Mars than you might think. The
+atmosphere is 98% CO2. And I happen to have a machine whose sole
+purpose is liberating oxygen from CO2. Yay Oxygenator!
+One problem: The atmosphere is very thin. About 1/90th the pressure
+on Earth. So it’s hard to collect. Getting air from outside to inside is
+nearly impossible. The whole purpose of the Hab is to keep that sort of
+thing from happening. The tiny amount of Martian atmosphere that enters
+when I use an airlock is laughable.
+That’s where the MAV fuel plant comes in.
+My crewmates took the MAV away weeks ago. But the bottom half of
+it stayed behind. NASA is not in the habit of putting unnecessary shit in
+to orbit. It left the landing gear, ingress ramp, and fuel plant behind.
+Remember how the MAV made its own fuel with help from the Martian
+atmosphere? Step one of that is to collect CO2 and store it in a high
+pressure vessel. Once I get that hooked up to the Hab’s power, it’ll give
+me half a liter of liquid CO2 per hour, indefinitely. After 5 days it’ll have
+made 125L of CO2, which will make 125L of O2 after I feed it through
+the Oxygenator.
+That’s enough to make 250L of water. So I have a plan for oxygen.
+The hydrogen will be a little trickier.
+I considered raiding the hydrogen fuel-cells, but I need those batteries
+to maintain power at night. If I don’t have that, It’ll get too cold. I could
+bundle up, but the cold would kill my crops. And each fuel cell only has a
+small amount of H2 anyway. It’s just not worth sacrificing so much
+usefulness for so little gain. The one thing I have going for me is that
+energy is not a problem. I don’t want to give that up.
+So I’ll have to go a different route.
+I often talk about the MAV. But now I want to talk about the MDV.
+During the most terrifying 23 minutes of my life, four of my
+crewmates and I tried not to shit ourselves while Martinez piloted the
+MDV down to the surface. It was kind of like being in a tumble-dryer.
+First, we descended from Hermes, and decelerated our orbital velocity
+so we could start falling properly. Everything was smooth until we hit the
+atmosphere. If you think turbulence is rough in a jetliner going 720kph,
+just imagine what it’s like at 28,000kph.
+Several staged sets of chutes deployed automatically to slow our
+descent, then Martinez manually piloted us to the ground, using the
+thrusters to slow descent and control our lateral motion. He’d trained for
+this for years, and he did his job extraordinarily well. He exceeded all
+plausible expectations of landings, putting us just nine meters from the
+target. The guy just plain owned that landing.
+Thanks, Martinez! You may have saved my life!
+Not because of the perfect landing, but because he left so much fuel
+behind. Hundreds of liters of unused Hydrazine. Each molecule of
+Hydrazine has four hydrogen atoms in it. So each liter of Hydrazine has
+enough hydrogen for *two* liters of water.
+I did a little EVA today to check. The MDV has 292L of juice left in
+the tanks. Enough to make a almost 600L of water! Way more than I
+need!
+There’s just one catch: Liberating hydrogen from Hydrazine is...
+well... it's how rockets work. It’s really, really hot. And dangerous. If I
+do it in an oxygen atmosphere, the heat and newly liberated hydrogen will
+explode. There’ll be a 

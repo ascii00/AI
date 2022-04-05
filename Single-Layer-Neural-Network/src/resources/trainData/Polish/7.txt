@@ -1,0 +1,41 @@
+OK, dobrze się w nocy wyspałem i wszystko nie wygląda tak beznadziejnie jak wczoraj.
+
+Dzisiaj zrobiłem bilans zapasów i szybkie wyjście, żeby sprawdzić sprzęt zewnętrzny. Oto moja sytuacja:
+
+Misja na powierzchni miała trwać trzydzieści dni. Na wszelki wypadek kapsuły z jedzeniem zawierały zapasy na pięćdziesiąt sześć dni dla całej załogi. Dzięki temu jeśli z jedną lub dwiema kapsułami byłby problem, nadal mielibyśmy wystarczająco dużo jedzenia na całą misję.
+
+Byliśmy tu sześć dni, zanim rozpętało się piekło, dlatego zostaje wystarczająca ilość jedzenia dla sześciu osób na pięćdziesiąt dni. Jestem sam, więc wchłonięcie tego zajmie mi trzysta dni. Przy założeniu, że nie będę sobie racjonował żywności. Tak więc mam przed sobą sporo czasu.
+
+Mam też zapas skafandrów EVA. Każdy członek załogi miał dwa skafandry: jeden do lotów, który miał być używany tylko w trakcie lądowania i startu, i dużo bardziej przysadzisty, mocny skafander EVA do wyjść na powierzchnię. Mój skafander do lotów ma dziurę w boku, a członkowie załogi oczywiście mieli nałożone swoje w trakcie powrotu na Hermesa. Ale wszystkie skafandry EVA są tu i nic im nie dolega.
+
+Hab przetrwał burzę bez żadnych uszkodzeń. Ale na zewnątrz sprawy nie wyglądają tak różowo. Nie mogę znaleźć anteny satelitarnej; najprawdopodobniej odleciała kilometry stąd.
+
+MAV-u oczywiście nie ma. Członkowie załogi zabrali go na Hermesa. Ale dolna część (moduł lądowniczy) pozostała. Nie ma sensu tego zabierać z powrotem, gdy ciężar jest twoim wrogiem. To część odpowiedzialna za przyziemienie, wytwórnia paliwa i wszystko, co NASA uznała za niewarte zabierania z powrotem na orbitę.
+
+MDV leży na boku z wyrwą w kadłubie. Wygląda na to, że burza rozerwała osłonę dodatkowego spadochronu (którego nie użyliśmy w trakcie lądowania). Kiedy spadochron się rozwinął, przeciągnął MDV po całej okolicy, waląc nim o każdy kamień po drodze. Nie żeby MDV mógł mi się przydać, silniki nawet by go nie udźwignęły. Ale mógł być cenny jako źródło części zamiennych. Może nadal jest.
+
+Oba łaziki są do połowy zakopane w piasku, ale poza tym wyglądają w porządku. Ich zamknięcia ciśnieniowe są nietknięte. Ma to sens. Procedura mówi, że jeśli burza w ciebie uderzy, należy się zatrzymać i ją przeczekać. Łaziki są zbudowane tak, żeby przyjąć uderzenie. Mogę je odkopać w dzień lub dwa.
+
+Straciłem łączność ze stacjami meteo umieszczonymi kilometr od Habu w czterech kierunkach. Z tego, co wiem, nadal mogą działać idealnie. System łączności Habu jest teraz słaby, prawdopodobnie zasięg nie przekracza kilometra.
+
+Farma ogniw słonecznych była cała pokryta pyłem, przez co stały się bezużyteczne (podpowiedź: ogniwa słoneczne potrzebują światła, żeby wytwarzać prąd). Ale gdy usunąłem z nich pył, powróciły do pełnej sprawności. Cokolwiek będę robił, energii na pewno mi nie zabraknie. Dwieście metrów kwadratowych ogniw słonecznych i ogniwa wodorowe do magazynowania energii. A ja tylko muszę zmiatać z nich pył co parę dni.
+
+Wewnątrz sprawy mają się doskonale dzięki mocnej budowie Habu.
+
+Zrobiłem pełną diagnostykę oksygenatora. Dwa razy. Jest w doskonałym stanie. Jeśli coś się zepsuje, mam zapasowy, którego mogę krótko używać, tylko przez czas naprawy podstawowego. Zapasowy tak naprawdę nie rozrywa cząsteczek CO2, uwalniając tlen. Absorbuje CO2 dokładnie tak samo jak skafandry kosmiczne. Jest przystosowany do działania przez pięć dni, zanim zużyją się filtry, co oznacza trzydzieści dni dla mnie (tylko jedna oddychająca osoba zamiast sześciu). Tak więc jest to całkiem niezłe zabezpieczenie.
+
+Odzyskiwacz wody także działa bez zastrzeżeń. Niestety nie ma zapasu. Jeśli się zepsuje, będę pił rezerwy wody do czasu, aż sklecę prymitywny system do destylacji sików. Będę także tracił pół litra wody dziennie z powodu oddychania, aż wilgotność w Habie osiągnie maksimum i woda zacznie się osadzać na wszystkich powierzchniach. Wtedy będę ją zlizywał ze ścian. No, na razie nie mam problemów z odzyskiwaczem wody.
+
+Tak. Żywność, woda, powietrze, wszystkim się zająłem. Natychmiast zaczynam racjonowanie jedzenia. Porcje już teraz są małe, ale myślę, że bez uszczerbku mogę jeść trzy czwarte tego co teraz na każdy posiłek. To powinno przedłużyć moje życie z trzystu dni do czterystu. Przeszukując ambulatorium, znalazłem wielką butlę witamin. Mam wystarczająco dużo multiwitaminy na lata. Tak więc nie będę miał problemów ze składnikami odżywczymi (ale i tak umrę z głodu, gdy skończą się zapasy, niezależnie od tego, ile witamin połknę).
+
+W razie nagłych wypadków w ambulatorium jest morfina. Starczy jej, żeby podać sobie śmiertelną dawkę. Nie będę powoli czekał na śmierć głodową. Nic z tego. Jeśli zajdzie potrzeba, wybiorę łatwiejszy sposób na opuszczenie tego świata.
+
+Każdy uczestnik misji miał dwie specjalizacje. Ja jestem botanikiem i inżynierem mechanikiem. Ogólnie rzecz biorąc, podczas misji byłem złotą rączką, która bawiła się roślinami. Zdolności inżynierskie mogą mi uratować życie, jeśli coś się zepsuje.
+
+Rozmyślałem o tym, jak to przetrwać. Nie jest całkowicie beznadziejnie. Mniej więcej za cztery lata na Marsie będą ludzie, gdy przybędzie tu Ares 4 (zakładając, że nie skasują programu z powodu mojej „śmierci”).
+
+Ares 4 będzie lądował w kraterze Schiaparellego, który oddalony jest mniej więcej o trzy tysiące dwieście kilometrów od mojej lokalizacji na równinie Acidalia. Zero szans, żebym się tam dostał sam. Ale jeśli uda mi się nawiązać łączność, może mnie uratują. Nie mam pojęcia, jak mieliby to zrobić z tym, co będą mieli pod ręką. Ale w NASA pracuje dużo mądrych ludzi.
+
+Tak więc znalezienie sposobu na skontaktowanie się z Ziemią to obecnie moje zadanie. Jeśli mi się nie uda, muszę znaleźć sposób na połączenie się z Hermesem, gdy przybędzie tu za cztery lata z załogą Aresa 4.
+
+Oczywiście nie mam planu na przetrwanie czterech lat, bo żywności starczy jedynie na rok. Ale po kolei. Na razie jestem najedzony i mam cel: Naprawić to cholerne radio.
